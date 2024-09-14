@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://casupt.github.io/zgI/sitemap.zgI.gz
